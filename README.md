@@ -22,3 +22,4 @@ text2:是作业2
 text3：是作业3
 从main函数开始运行会显示控制台
   ![Image text](https://github.com/Wintermoth/python_termproject/blob/master/%E8%81%94%E6%83%B3%E6%88%AA%E5%9B%BE_20230625132546.png)
+  ![Image text](https://github.com/Wintermoth/python_termproject/blob/master/%E8%81%94%E6%83%B3%E6%88%AA%E5%9B%BE_20230625134905.png)
