@@ -21,4 +21,4 @@ text1:是作业1
 text2:是作业2
 text3：是作业3
 从main函数开始运行会显示控制台
-  ![Image text](C:\Users\26685\Pictures\联想截图)
+  ![Image text](https://pic.imgdb.cn/item/6497d3141ddac507ccf140a1.png)
